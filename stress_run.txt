@@ -1,0 +1,1097 @@
+Loaded model with classes: {0: 'signature', 1: 'stamp', 2: 'qr'}
+
+========== STRESS RUN 1 / 3 ==========
+
+Processing PDF: ТУ-31-.pdf
+  Saved image: ТУ-31-_page1.jpg
+  Saved image: ТУ-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-31-_annotated.pdf
+Finished ТУ-31-.pdf in 1.14 seconds
+
+Processing PDF: АПЗ-2.pdf
+  Saved image: АПЗ-2_page1.jpg
+  Saved image: АПЗ-2_page2.jpg
+  Saved image: АПЗ-2_page3.jpg
+  Saved image: АПЗ-2_page4.jpg
+  Saved image: АПЗ-2_page5.jpg
+  Saved image: АПЗ-2_page6.jpg
+  Saved image: АПЗ-2_page7.jpg
+  Saved image: АПЗ-2_page8.jpg
+  Saved image: АПЗ-2_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-2_annotated.pdf
+Finished АПЗ-2.pdf in 1.50 seconds
+
+Processing PDF: Локалсмета-2.pdf
+  Saved image: Локалсмета-2_page1.jpg
+  Saved image: Локалсмета-2_page2.jpg
+  Saved image: Локалсмета-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Локалсмета-2_annotated.pdf
+Finished Локалсмета-2.pdf in 0.45 seconds
+
+Processing PDF: перечень-32-.pdf
+  Saved image: перечень-32-_page1.jpg
+  Saved image: перечень-32-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-32-_annotated.pdf
+Finished перечень-32-.pdf in 0.30 seconds
+
+Processing PDF: локалсмета-32-.pdf
+  Saved image: локалсмета-32-_page1.jpg
+  Saved image: локалсмета-32-_page2.jpg
+  Saved image: локалсмета-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-32-_annotated.pdf
+Finished локалсмета-32-.pdf in 0.38 seconds
+
+Processing PDF: Дозиметр-41-чб.pdf
+  Saved image: Дозиметр-41-чб_page1.jpg
+  Saved image: Дозиметр-41-чб_page2.jpg
+  Saved image: Дозиметр-41-чб_page3.jpg
+  Saved image: Дозиметр-41-чб_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Дозиметр-41-чб_annotated.pdf
+Finished Дозиметр-41-чб.pdf in 0.61 seconds
+
+Processing PDF: перечень-.pdf
+  Saved image: перечень-_page1.jpg
+  Saved image: перечень-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-_annotated.pdf
+Finished перечень-.pdf in 0.30 seconds
+
+Processing PDF: письмо-.pdf
+  Saved image: письмо-_page1.jpg
+  Saved image: письмо-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-_annotated.pdf
+Finished письмо-.pdf in 0.31 seconds
+
+Processing PDF: АПЗ-31-.pdf
+  Saved image: АПЗ-31-_page1.jpg
+  Saved image: АПЗ-31-_page2.jpg
+  Saved image: АПЗ-31-_page3.jpg
+  Saved image: АПЗ-31-_page4.jpg
+  Saved image: АПЗ-31-_page5.jpg
+  Saved image: АПЗ-31-_page6.jpg
+  Saved image: АПЗ-31-_page7.jpg
+  Saved image: АПЗ-31-_page8.jpg
+  Saved image: АПЗ-31-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-31-_annotated.pdf
+Finished АПЗ-31-.pdf in 1.41 seconds
+
+Processing PDF: отр-22.pdf
+  Saved image: отр-22_page1.jpg
+  Saved image: отр-22_page2.jpg
+  Saved image: отр-22_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-22_annotated.pdf
+Finished отр-22.pdf in 0.49 seconds
+
+Processing PDF: отр-32-.pdf
+  Saved image: отр-32-_page1.jpg
+  Saved image: отр-32-_page2.jpg
+  Saved image: отр-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-32-_annotated.pdf
+Finished отр-32-.pdf in 0.46 seconds
+
+Processing PDF: ТУ-.pdf
+  Saved image: ТУ-_page1.jpg
+  Saved image: ТУ-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-_annotated.pdf
+Finished ТУ-.pdf in 0.31 seconds
+
+Processing PDF: АПЗ-.pdf
+  Saved image: АПЗ-_page1.jpg
+  Saved image: АПЗ-_page2.jpg
+  Saved image: АПЗ-_page3.jpg
+  Saved image: АПЗ-_page4.jpg
+  Saved image: АПЗ-_page5.jpg
+  Saved image: АПЗ-_page6.jpg
+  Saved image: АПЗ-_page7.jpg
+  Saved image: АПЗ-_page8.jpg
+  Saved image: АПЗ-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-_annotated.pdf
+Finished АПЗ-.pdf in 1.47 seconds
+
+Processing PDF: Письмо-2.pdf
+  Saved image: Письмо-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-2_annotated.pdf
+Finished Письмо-2.pdf in 0.16 seconds
+
+Processing PDF: письмо-31-.pdf
+  Saved image: письмо-31-_page1.jpg
+  Saved image: письмо-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-31-_annotated.pdf
+Finished письмо-31-.pdf in 0.29 seconds
+
+Processing PDF: Археология-31-.pdf
+  Saved image: Археология-31-_page1.jpg
+  Saved image: Археология-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-31-_annotated.pdf
+Finished Археология-31-.pdf in 0.31 seconds
+
+Processing PDF: отр-41-.pdf
+  Saved image: отр-41-_page1.jpg
+  Saved image: отр-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-41-_annotated.pdf
+Finished отр-41-.pdf in 0.30 seconds
+
+Processing PDF: Перечень-2.pdf
+  Saved image: Перечень-2_page1.jpg
+  Saved image: Перечень-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Перечень-2_annotated.pdf
+Finished Перечень-2.pdf in 0.30 seconds
+
+Processing PDF: отр-2.pdf
+  Saved image: отр-2_page1.jpg
+  Saved image: отр-2_page2.jpg
+  Saved image: отр-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-2_annotated.pdf
+Finished отр-2.pdf in 0.48 seconds
+
+Processing PDF: Письмо-42.pdf
+  Saved image: Письмо-42_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-42_annotated.pdf
+Finished Письмо-42.pdf in 0.17 seconds
+
+Processing PDF: ТЗ-.pdf
+  Saved image: ТЗ-_page1.jpg
+  Saved image: ТЗ-_page2.jpg
+  Saved image: ТЗ-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-_annotated.pdf
+Finished ТЗ-.pdf in 0.48 seconds
+
+Processing PDF: Археология-2.pdf
+  Saved image: Археология-2_page1.jpg
+  Saved image: Археология-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-2_annotated.pdf
+Finished Археология-2.pdf in 0.31 seconds
+
+Processing PDF: Разрешназемлю-41-.pdf
+  Saved image: Разрешназемлю-41-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Разрешназемлю-41-_annotated.pdf
+Finished Разрешназемлю-41-.pdf in 0.16 seconds
+
+Processing PDF: отр-31-.pdf
+  Saved image: отр-31-_page1.jpg
+  Saved image: отр-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-31-_annotated.pdf
+Finished отр-31-.pdf in 0.31 seconds
+
+Processing PDF: чертеж-.pdf
+  Saved image: чертеж-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/чертеж-_annotated.pdf
+Finished чертеж-.pdf in 0.13 seconds
+
+Processing PDF: отр-1.pdf
+  Saved image: отр-1_page1.jpg
+  Saved image: отр-1_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-1_annotated.pdf
+Finished отр-1.pdf in 0.30 seconds
+
+Processing PDF: ТУ-41-чб.pdf
+  Saved image: ТУ-41-чб_page1.jpg
+  Saved image: ТУ-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-41-чб_annotated.pdf
+Finished ТУ-41-чб.pdf in 0.31 seconds
+
+Processing PDF: Археология-.pdf
+  Saved image: Археология-_page1.jpg
+  Saved image: Археология-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-_annotated.pdf
+Finished Археология-.pdf in 0.32 seconds
+
+Processing PDF: археология-41-чб.pdf
+  Saved image: археология-41-чб_page1.jpg
+  Saved image: археология-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/археология-41-чб_annotated.pdf
+Finished археология-41-чб.pdf in 0.30 seconds
+
+Processing PDF: письмо-22.pdf
+  Saved image: письмо-22_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-22_annotated.pdf
+Finished письмо-22.pdf in 0.15 seconds
+
+Processing PDF: локалсметчб-.pdf
+  Saved image: локалсметчб-_page1.jpg
+  Saved image: локалсметчб-_page2.jpg
+  Saved image: локалсметчб-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсметчб-_annotated.pdf
+Finished локалсметчб-.pdf in 0.40 seconds
+
+Processing PDF: дозиметрия-31-.pdf
+  Saved image: дозиметрия-31-_page1.jpg
+  Saved image: дозиметрия-31-_page2.jpg
+  Saved image: дозиметрия-31-_page3.jpg
+  Saved image: дозиметрия-31-_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дозиметрия-31-_annotated.pdf
+Finished дозиметрия-31-.pdf in 0.65 seconds
+
+Processing PDF: АПЗ-41-чб.pdf
+  Saved image: АПЗ-41-чб_page1.jpg
+  Saved image: АПЗ-41-чб_page2.jpg
+  Saved image: АПЗ-41-чб_page3.jpg
+  Saved image: АПЗ-41-чб_page4.jpg
+  Saved image: АПЗ-41-чб_page5.jpg
+  Saved image: АПЗ-41-чб_page6.jpg
+  Saved image: АПЗ-41-чб_page7.jpg
+  Saved image: АПЗ-41-чб_page8.jpg
+  Saved image: АПЗ-41-чб_page9.jpg
+  Saved image: АПЗ-41-чб_page10.jpg
+  Saved image: АПЗ-41-чб_page11.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-41-чб_annotated.pdf
+Finished АПЗ-41-чб.pdf in 1.74 seconds
+
+Processing PDF: дефект-31-.pdf
+  Saved image: дефект-31-_page1.jpg
+  Saved image: дефект-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-31-_annotated.pdf
+Finished дефект-31-.pdf in 0.31 seconds
+
+Processing PDF: письмо-11.pdf
+  Saved image: письмо-11_page1.jpg
+  Saved image: письмо-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-11_annotated.pdf
+Finished письмо-11.pdf in 0.30 seconds
+
+Processing PDF: локалсмета-.pdf
+  Saved image: локалсмета-_page1.jpg
+  Saved image: локалсмета-_page2.jpg
+  Saved image: локалсмета-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-_annotated.pdf
+Finished локалсмета-.pdf in 0.38 seconds
+
+Processing PDF: дефект-2.pdf
+  Saved image: дефект-2_page1.jpg
+  Saved image: дефект-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-2_annotated.pdf
+Finished дефект-2.pdf in 0.29 seconds
+
+Processing PDF: дефект-41-чб.pdf
+  Saved image: дефект-41-чб_page1.jpg
+  Saved image: дефект-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-41-чб_annotated.pdf
+Finished дефект-41-чб.pdf in 0.30 seconds
+
+Processing PDF: разрешназемлю-.pdf
+  Saved image: разрешназемлю-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемлю-_annotated.pdf
+Finished разрешназемлю-.pdf in 0.16 seconds
+
+Processing PDF: разрешназемл-2.pdf
+  Saved image: разрешназемл-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемл-2_annotated.pdf
+Finished разрешназемл-2.pdf in 0.15 seconds
+
+Processing PDF: ТЗ-41-чб.pdf
+  Saved image: ТЗ-41-чб_page1.jpg
+  Saved image: ТЗ-41-чб_page2.jpg
+  Saved image: ТЗ-41-чб_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-41-чб_annotated.pdf
+Finished ТЗ-41-чб.pdf in 0.47 seconds
+
+Processing PDF: Письмо-41-.pdf
+  Saved image: Письмо-41-_page1.jpg
+  Saved image: Письмо-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-41-_annotated.pdf
+Finished Письмо-41-.pdf in 0.31 seconds
+
+Processing PDF: отр-11.pdf
+  Saved image: отр-11_page1.jpg
+  Saved image: отр-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-11_annotated.pdf
+Finished отр-11.pdf in 0.29 seconds
+
+Processing PDF: дефект-.pdf
+  Saved image: дефект-_page1.jpg
+  Saved image: дефект-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-_annotated.pdf
+Finished дефект-.pdf in 0.29 seconds
+
+Processing PDF: Паспортпроекта-31-.pdf
+  Saved image: Паспортпроекта-31-_page1.jpg
+  Saved image: Паспортпроекта-31-_page2.jpg
+  Saved image: Паспортпроекта-31-_page3.jpg
+  Saved image: Паспортпроекта-31-_page4.jpg
+  Saved image: Паспортпроекта-31-_page5.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Паспортпроекта-31-_annotated.pdf
+Finished Паспортпроекта-31-.pdf in 0.73 seconds
+
+================== RUN SUMMARY ==================
+Run 1 / 3
+Processed files:
+1. ТУ-31-.pdf → 1.14 seconds
+2. АПЗ-2.pdf → 1.50 seconds
+3. Локалсмета-2.pdf → 0.45 seconds
+4. перечень-32-.pdf → 0.30 seconds
+5. локалсмета-32-.pdf → 0.38 seconds
+6. Дозиметр-41-чб.pdf → 0.61 seconds
+7. перечень-.pdf → 0.30 seconds
+8. письмо-.pdf → 0.31 seconds
+9. АПЗ-31-.pdf → 1.41 seconds
+10. отр-22.pdf → 0.49 seconds
+11. отр-32-.pdf → 0.46 seconds
+12. ТУ-.pdf → 0.31 seconds
+13. АПЗ-.pdf → 1.47 seconds
+14. Письмо-2.pdf → 0.16 seconds
+15. письмо-31-.pdf → 0.29 seconds
+16. Археология-31-.pdf → 0.31 seconds
+17. отр-41-.pdf → 0.30 seconds
+18. Перечень-2.pdf → 0.30 seconds
+19. отр-2.pdf → 0.48 seconds
+20. Письмо-42.pdf → 0.17 seconds
+21. ТЗ-.pdf → 0.48 seconds
+22. Археология-2.pdf → 0.31 seconds
+23. Разрешназемлю-41-.pdf → 0.16 seconds
+24. отр-31-.pdf → 0.31 seconds
+25. чертеж-.pdf → 0.13 seconds
+26. отр-1.pdf → 0.30 seconds
+27. ТУ-41-чб.pdf → 0.31 seconds
+28. Археология-.pdf → 0.32 seconds
+29. археология-41-чб.pdf → 0.30 seconds
+30. письмо-22.pdf → 0.15 seconds
+31. локалсметчб-.pdf → 0.40 seconds
+32. дозиметрия-31-.pdf → 0.65 seconds
+33. АПЗ-41-чб.pdf → 1.74 seconds
+34. дефект-31-.pdf → 0.31 seconds
+35. письмо-11.pdf → 0.30 seconds
+36. локалсмета-.pdf → 0.38 seconds
+37. дефект-2.pdf → 0.29 seconds
+38. дефект-41-чб.pdf → 0.30 seconds
+39. разрешназемлю-.pdf → 0.16 seconds
+40. разрешназемл-2.pdf → 0.15 seconds
+41. ТЗ-41-чб.pdf → 0.47 seconds
+42. Письмо-41-.pdf → 0.31 seconds
+43. отр-11.pdf → 0.29 seconds
+44. дефект-.pdf → 0.29 seconds
+45. Паспортпроекта-31-.pdf → 0.73 seconds
+
+Run 1 total time: 20.68 seconds
+Selected annotations JSON saved to: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_json/output_selected_annotations_run1.json
+=================================================
+
+
+========== STRESS RUN 2 / 3 ==========
+
+Processing PDF: ТУ-31-.pdf
+  Saved image: ТУ-31-_page1.jpg
+  Saved image: ТУ-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-31-_annotated.pdf
+Finished ТУ-31-.pdf in 0.33 seconds
+
+Processing PDF: АПЗ-2.pdf
+  Saved image: АПЗ-2_page1.jpg
+  Saved image: АПЗ-2_page2.jpg
+  Saved image: АПЗ-2_page3.jpg
+  Saved image: АПЗ-2_page4.jpg
+  Saved image: АПЗ-2_page5.jpg
+  Saved image: АПЗ-2_page6.jpg
+  Saved image: АПЗ-2_page7.jpg
+  Saved image: АПЗ-2_page8.jpg
+  Saved image: АПЗ-2_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-2_annotated.pdf
+Finished АПЗ-2.pdf in 1.39 seconds
+
+Processing PDF: Локалсмета-2.pdf
+  Saved image: Локалсмета-2_page1.jpg
+  Saved image: Локалсмета-2_page2.jpg
+  Saved image: Локалсмета-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Локалсмета-2_annotated.pdf
+Finished Локалсмета-2.pdf in 0.41 seconds
+
+Processing PDF: перечень-32-.pdf
+  Saved image: перечень-32-_page1.jpg
+  Saved image: перечень-32-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-32-_annotated.pdf
+Finished перечень-32-.pdf in 0.31 seconds
+
+Processing PDF: локалсмета-32-.pdf
+  Saved image: локалсмета-32-_page1.jpg
+  Saved image: локалсмета-32-_page2.jpg
+  Saved image: локалсмета-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-32-_annotated.pdf
+Finished локалсмета-32-.pdf in 0.39 seconds
+
+Processing PDF: Дозиметр-41-чб.pdf
+  Saved image: Дозиметр-41-чб_page1.jpg
+  Saved image: Дозиметр-41-чб_page2.jpg
+  Saved image: Дозиметр-41-чб_page3.jpg
+  Saved image: Дозиметр-41-чб_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Дозиметр-41-чб_annotated.pdf
+Finished Дозиметр-41-чб.pdf in 0.62 seconds
+
+Processing PDF: перечень-.pdf
+  Saved image: перечень-_page1.jpg
+  Saved image: перечень-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-_annotated.pdf
+Finished перечень-.pdf in 0.33 seconds
+
+Processing PDF: письмо-.pdf
+  Saved image: письмо-_page1.jpg
+  Saved image: письмо-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-_annotated.pdf
+Finished письмо-.pdf in 0.30 seconds
+
+Processing PDF: АПЗ-31-.pdf
+  Saved image: АПЗ-31-_page1.jpg
+  Saved image: АПЗ-31-_page2.jpg
+  Saved image: АПЗ-31-_page3.jpg
+  Saved image: АПЗ-31-_page4.jpg
+  Saved image: АПЗ-31-_page5.jpg
+  Saved image: АПЗ-31-_page6.jpg
+  Saved image: АПЗ-31-_page7.jpg
+  Saved image: АПЗ-31-_page8.jpg
+  Saved image: АПЗ-31-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-31-_annotated.pdf
+Finished АПЗ-31-.pdf in 1.41 seconds
+
+Processing PDF: отр-22.pdf
+  Saved image: отр-22_page1.jpg
+  Saved image: отр-22_page2.jpg
+  Saved image: отр-22_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-22_annotated.pdf
+Finished отр-22.pdf in 0.46 seconds
+
+Processing PDF: отр-32-.pdf
+  Saved image: отр-32-_page1.jpg
+  Saved image: отр-32-_page2.jpg
+  Saved image: отр-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-32-_annotated.pdf
+Finished отр-32-.pdf in 0.45 seconds
+
+Processing PDF: ТУ-.pdf
+  Saved image: ТУ-_page1.jpg
+  Saved image: ТУ-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-_annotated.pdf
+Finished ТУ-.pdf in 0.33 seconds
+
+Processing PDF: АПЗ-.pdf
+  Saved image: АПЗ-_page1.jpg
+  Saved image: АПЗ-_page2.jpg
+  Saved image: АПЗ-_page3.jpg
+  Saved image: АПЗ-_page4.jpg
+  Saved image: АПЗ-_page5.jpg
+  Saved image: АПЗ-_page6.jpg
+  Saved image: АПЗ-_page7.jpg
+  Saved image: АПЗ-_page8.jpg
+  Saved image: АПЗ-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-_annotated.pdf
+Finished АПЗ-.pdf in 1.37 seconds
+
+Processing PDF: Письмо-2.pdf
+  Saved image: Письмо-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-2_annotated.pdf
+Finished Письмо-2.pdf in 0.15 seconds
+
+Processing PDF: письмо-31-.pdf
+  Saved image: письмо-31-_page1.jpg
+  Saved image: письмо-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-31-_annotated.pdf
+Finished письмо-31-.pdf in 0.31 seconds
+
+Processing PDF: Археология-31-.pdf
+  Saved image: Археология-31-_page1.jpg
+  Saved image: Археология-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-31-_annotated.pdf
+Finished Археология-31-.pdf in 0.31 seconds
+
+Processing PDF: отр-41-.pdf
+  Saved image: отр-41-_page1.jpg
+  Saved image: отр-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-41-_annotated.pdf
+Finished отр-41-.pdf in 0.29 seconds
+
+Processing PDF: Перечень-2.pdf
+  Saved image: Перечень-2_page1.jpg
+  Saved image: Перечень-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Перечень-2_annotated.pdf
+Finished Перечень-2.pdf in 0.30 seconds
+
+Processing PDF: отр-2.pdf
+  Saved image: отр-2_page1.jpg
+  Saved image: отр-2_page2.jpg
+  Saved image: отр-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-2_annotated.pdf
+Finished отр-2.pdf in 0.45 seconds
+
+Processing PDF: Письмо-42.pdf
+  Saved image: Письмо-42_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-42_annotated.pdf
+Finished Письмо-42.pdf in 0.15 seconds
+
+Processing PDF: ТЗ-.pdf
+  Saved image: ТЗ-_page1.jpg
+  Saved image: ТЗ-_page2.jpg
+  Saved image: ТЗ-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-_annotated.pdf
+Finished ТЗ-.pdf in 0.45 seconds
+
+Processing PDF: Археология-2.pdf
+  Saved image: Археология-2_page1.jpg
+  Saved image: Археология-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-2_annotated.pdf
+Finished Археология-2.pdf in 0.31 seconds
+
+Processing PDF: Разрешназемлю-41-.pdf
+  Saved image: Разрешназемлю-41-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Разрешназемлю-41-_annotated.pdf
+Finished Разрешназемлю-41-.pdf in 0.16 seconds
+
+Processing PDF: отр-31-.pdf
+  Saved image: отр-31-_page1.jpg
+  Saved image: отр-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-31-_annotated.pdf
+Finished отр-31-.pdf in 0.30 seconds
+
+Processing PDF: чертеж-.pdf
+  Saved image: чертеж-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/чертеж-_annotated.pdf
+Finished чертеж-.pdf in 0.13 seconds
+
+Processing PDF: отр-1.pdf
+  Saved image: отр-1_page1.jpg
+  Saved image: отр-1_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-1_annotated.pdf
+Finished отр-1.pdf in 0.30 seconds
+
+Processing PDF: ТУ-41-чб.pdf
+  Saved image: ТУ-41-чб_page1.jpg
+  Saved image: ТУ-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-41-чб_annotated.pdf
+Finished ТУ-41-чб.pdf in 0.31 seconds
+
+Processing PDF: Археология-.pdf
+  Saved image: Археология-_page1.jpg
+  Saved image: Археология-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-_annotated.pdf
+Finished Археология-.pdf in 0.31 seconds
+
+Processing PDF: археология-41-чб.pdf
+  Saved image: археология-41-чб_page1.jpg
+  Saved image: археология-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/археология-41-чб_annotated.pdf
+Finished археология-41-чб.pdf in 0.31 seconds
+
+Processing PDF: письмо-22.pdf
+  Saved image: письмо-22_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-22_annotated.pdf
+Finished письмо-22.pdf in 0.15 seconds
+
+Processing PDF: локалсметчб-.pdf
+  Saved image: локалсметчб-_page1.jpg
+  Saved image: локалсметчб-_page2.jpg
+  Saved image: локалсметчб-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсметчб-_annotated.pdf
+Finished локалсметчб-.pdf in 0.38 seconds
+
+Processing PDF: дозиметрия-31-.pdf
+  Saved image: дозиметрия-31-_page1.jpg
+  Saved image: дозиметрия-31-_page2.jpg
+  Saved image: дозиметрия-31-_page3.jpg
+  Saved image: дозиметрия-31-_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дозиметрия-31-_annotated.pdf
+Finished дозиметрия-31-.pdf in 0.60 seconds
+
+Processing PDF: АПЗ-41-чб.pdf
+  Saved image: АПЗ-41-чб_page1.jpg
+  Saved image: АПЗ-41-чб_page2.jpg
+  Saved image: АПЗ-41-чб_page3.jpg
+  Saved image: АПЗ-41-чб_page4.jpg
+  Saved image: АПЗ-41-чб_page5.jpg
+  Saved image: АПЗ-41-чб_page6.jpg
+  Saved image: АПЗ-41-чб_page7.jpg
+  Saved image: АПЗ-41-чб_page8.jpg
+  Saved image: АПЗ-41-чб_page9.jpg
+  Saved image: АПЗ-41-чб_page10.jpg
+  Saved image: АПЗ-41-чб_page11.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-41-чб_annotated.pdf
+Finished АПЗ-41-чб.pdf in 1.63 seconds
+
+Processing PDF: дефект-31-.pdf
+  Saved image: дефект-31-_page1.jpg
+  Saved image: дефект-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-31-_annotated.pdf
+Finished дефект-31-.pdf in 0.30 seconds
+
+Processing PDF: письмо-11.pdf
+  Saved image: письмо-11_page1.jpg
+  Saved image: письмо-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-11_annotated.pdf
+Finished письмо-11.pdf in 0.30 seconds
+
+Processing PDF: локалсмета-.pdf
+  Saved image: локалсмета-_page1.jpg
+  Saved image: локалсмета-_page2.jpg
+  Saved image: локалсмета-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-_annotated.pdf
+Finished локалсмета-.pdf in 0.39 seconds
+
+Processing PDF: дефект-2.pdf
+  Saved image: дефект-2_page1.jpg
+  Saved image: дефект-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-2_annotated.pdf
+Finished дефект-2.pdf in 0.30 seconds
+
+Processing PDF: дефект-41-чб.pdf
+  Saved image: дефект-41-чб_page1.jpg
+  Saved image: дефект-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-41-чб_annotated.pdf
+Finished дефект-41-чб.pdf in 0.30 seconds
+
+Processing PDF: разрешназемлю-.pdf
+  Saved image: разрешназемлю-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемлю-_annotated.pdf
+Finished разрешназемлю-.pdf in 0.15 seconds
+
+Processing PDF: разрешназемл-2.pdf
+  Saved image: разрешназемл-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемл-2_annotated.pdf
+Finished разрешназемл-2.pdf in 0.15 seconds
+
+Processing PDF: ТЗ-41-чб.pdf
+  Saved image: ТЗ-41-чб_page1.jpg
+  Saved image: ТЗ-41-чб_page2.jpg
+  Saved image: ТЗ-41-чб_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-41-чб_annotated.pdf
+Finished ТЗ-41-чб.pdf in 0.45 seconds
+
+Processing PDF: Письмо-41-.pdf
+  Saved image: Письмо-41-_page1.jpg
+  Saved image: Письмо-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-41-_annotated.pdf
+Finished Письмо-41-.pdf in 0.30 seconds
+
+Processing PDF: отр-11.pdf
+  Saved image: отр-11_page1.jpg
+  Saved image: отр-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-11_annotated.pdf
+Finished отр-11.pdf in 0.29 seconds
+
+Processing PDF: дефект-.pdf
+  Saved image: дефект-_page1.jpg
+  Saved image: дефект-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-_annotated.pdf
+Finished дефект-.pdf in 0.30 seconds
+
+Processing PDF: Паспортпроекта-31-.pdf
+  Saved image: Паспортпроекта-31-_page1.jpg
+  Saved image: Паспортпроекта-31-_page2.jpg
+  Saved image: Паспортпроекта-31-_page3.jpg
+  Saved image: Паспортпроекта-31-_page4.jpg
+  Saved image: Паспортпроекта-31-_page5.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Паспортпроекта-31-_annotated.pdf
+Finished Паспортпроекта-31-.pdf in 0.73 seconds
+
+================== RUN SUMMARY ==================
+Run 2 / 3
+Processed files:
+1. ТУ-31-.pdf → 0.33 seconds
+2. АПЗ-2.pdf → 1.39 seconds
+3. Локалсмета-2.pdf → 0.41 seconds
+4. перечень-32-.pdf → 0.31 seconds
+5. локалсмета-32-.pdf → 0.39 seconds
+6. Дозиметр-41-чб.pdf → 0.62 seconds
+7. перечень-.pdf → 0.33 seconds
+8. письмо-.pdf → 0.30 seconds
+9. АПЗ-31-.pdf → 1.41 seconds
+10. отр-22.pdf → 0.46 seconds
+11. отр-32-.pdf → 0.45 seconds
+12. ТУ-.pdf → 0.33 seconds
+13. АПЗ-.pdf → 1.37 seconds
+14. Письмо-2.pdf → 0.15 seconds
+15. письмо-31-.pdf → 0.31 seconds
+16. Археология-31-.pdf → 0.31 seconds
+17. отр-41-.pdf → 0.29 seconds
+18. Перечень-2.pdf → 0.30 seconds
+19. отр-2.pdf → 0.45 seconds
+20. Письмо-42.pdf → 0.15 seconds
+21. ТЗ-.pdf → 0.45 seconds
+22. Археология-2.pdf → 0.31 seconds
+23. Разрешназемлю-41-.pdf → 0.16 seconds
+24. отр-31-.pdf → 0.30 seconds
+25. чертеж-.pdf → 0.13 seconds
+26. отр-1.pdf → 0.30 seconds
+27. ТУ-41-чб.pdf → 0.31 seconds
+28. Археология-.pdf → 0.31 seconds
+29. археология-41-чб.pdf → 0.31 seconds
+30. письмо-22.pdf → 0.15 seconds
+31. локалсметчб-.pdf → 0.38 seconds
+32. дозиметрия-31-.pdf → 0.60 seconds
+33. АПЗ-41-чб.pdf → 1.63 seconds
+34. дефект-31-.pdf → 0.30 seconds
+35. письмо-11.pdf → 0.30 seconds
+36. локалсмета-.pdf → 0.39 seconds
+37. дефект-2.pdf → 0.30 seconds
+38. дефект-41-чб.pdf → 0.30 seconds
+39. разрешназемлю-.pdf → 0.15 seconds
+40. разрешназемл-2.pdf → 0.15 seconds
+41. ТЗ-41-чб.pdf → 0.45 seconds
+42. Письмо-41-.pdf → 0.30 seconds
+43. отр-11.pdf → 0.29 seconds
+44. дефект-.pdf → 0.30 seconds
+45. Паспортпроекта-31-.pdf → 0.73 seconds
+
+Run 2 total time: 19.37 seconds
+Selected annotations JSON saved to: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_json/output_selected_annotations_run2.json
+=================================================
+
+
+========== STRESS RUN 3 / 3 ==========
+
+Processing PDF: ТУ-31-.pdf
+  Saved image: ТУ-31-_page1.jpg
+  Saved image: ТУ-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-31-_annotated.pdf
+Finished ТУ-31-.pdf in 0.31 seconds
+
+Processing PDF: АПЗ-2.pdf
+  Saved image: АПЗ-2_page1.jpg
+  Saved image: АПЗ-2_page2.jpg
+  Saved image: АПЗ-2_page3.jpg
+  Saved image: АПЗ-2_page4.jpg
+  Saved image: АПЗ-2_page5.jpg
+  Saved image: АПЗ-2_page6.jpg
+  Saved image: АПЗ-2_page7.jpg
+  Saved image: АПЗ-2_page8.jpg
+  Saved image: АПЗ-2_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-2_annotated.pdf
+Finished АПЗ-2.pdf in 1.37 seconds
+
+Processing PDF: Локалсмета-2.pdf
+  Saved image: Локалсмета-2_page1.jpg
+  Saved image: Локалсмета-2_page2.jpg
+  Saved image: Локалсмета-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Локалсмета-2_annotated.pdf
+Finished Локалсмета-2.pdf in 0.41 seconds
+
+Processing PDF: перечень-32-.pdf
+  Saved image: перечень-32-_page1.jpg
+  Saved image: перечень-32-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-32-_annotated.pdf
+Finished перечень-32-.pdf in 0.31 seconds
+
+Processing PDF: локалсмета-32-.pdf
+  Saved image: локалсмета-32-_page1.jpg
+  Saved image: локалсмета-32-_page2.jpg
+  Saved image: локалсмета-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-32-_annotated.pdf
+Finished локалсмета-32-.pdf in 0.38 seconds
+
+Processing PDF: Дозиметр-41-чб.pdf
+  Saved image: Дозиметр-41-чб_page1.jpg
+  Saved image: Дозиметр-41-чб_page2.jpg
+  Saved image: Дозиметр-41-чб_page3.jpg
+  Saved image: Дозиметр-41-чб_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Дозиметр-41-чб_annotated.pdf
+Finished Дозиметр-41-чб.pdf in 0.60 seconds
+
+Processing PDF: перечень-.pdf
+  Saved image: перечень-_page1.jpg
+  Saved image: перечень-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/перечень-_annotated.pdf
+Finished перечень-.pdf in 0.31 seconds
+
+Processing PDF: письмо-.pdf
+  Saved image: письмо-_page1.jpg
+  Saved image: письмо-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-_annotated.pdf
+Finished письмо-.pdf in 0.30 seconds
+
+Processing PDF: АПЗ-31-.pdf
+  Saved image: АПЗ-31-_page1.jpg
+  Saved image: АПЗ-31-_page2.jpg
+  Saved image: АПЗ-31-_page3.jpg
+  Saved image: АПЗ-31-_page4.jpg
+  Saved image: АПЗ-31-_page5.jpg
+  Saved image: АПЗ-31-_page6.jpg
+  Saved image: АПЗ-31-_page7.jpg
+  Saved image: АПЗ-31-_page8.jpg
+  Saved image: АПЗ-31-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-31-_annotated.pdf
+Finished АПЗ-31-.pdf in 1.39 seconds
+
+Processing PDF: отр-22.pdf
+  Saved image: отр-22_page1.jpg
+  Saved image: отр-22_page2.jpg
+  Saved image: отр-22_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-22_annotated.pdf
+Finished отр-22.pdf in 0.45 seconds
+
+Processing PDF: отр-32-.pdf
+  Saved image: отр-32-_page1.jpg
+  Saved image: отр-32-_page2.jpg
+  Saved image: отр-32-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-32-_annotated.pdf
+Finished отр-32-.pdf in 0.45 seconds
+
+Processing PDF: ТУ-.pdf
+  Saved image: ТУ-_page1.jpg
+  Saved image: ТУ-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-_annotated.pdf
+Finished ТУ-.pdf in 0.31 seconds
+
+Processing PDF: АПЗ-.pdf
+  Saved image: АПЗ-_page1.jpg
+  Saved image: АПЗ-_page2.jpg
+  Saved image: АПЗ-_page3.jpg
+  Saved image: АПЗ-_page4.jpg
+  Saved image: АПЗ-_page5.jpg
+  Saved image: АПЗ-_page6.jpg
+  Saved image: АПЗ-_page7.jpg
+  Saved image: АПЗ-_page8.jpg
+  Saved image: АПЗ-_page9.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-_annotated.pdf
+Finished АПЗ-.pdf in 1.34 seconds
+
+Processing PDF: Письмо-2.pdf
+  Saved image: Письмо-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-2_annotated.pdf
+Finished Письмо-2.pdf in 0.17 seconds
+
+Processing PDF: письмо-31-.pdf
+  Saved image: письмо-31-_page1.jpg
+  Saved image: письмо-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-31-_annotated.pdf
+Finished письмо-31-.pdf in 0.30 seconds
+
+Processing PDF: Археология-31-.pdf
+  Saved image: Археология-31-_page1.jpg
+  Saved image: Археология-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-31-_annotated.pdf
+Finished Археология-31-.pdf in 0.30 seconds
+
+Processing PDF: отр-41-.pdf
+  Saved image: отр-41-_page1.jpg
+  Saved image: отр-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-41-_annotated.pdf
+Finished отр-41-.pdf in 0.29 seconds
+
+Processing PDF: Перечень-2.pdf
+  Saved image: Перечень-2_page1.jpg
+  Saved image: Перечень-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Перечень-2_annotated.pdf
+Finished Перечень-2.pdf in 0.30 seconds
+
+Processing PDF: отр-2.pdf
+  Saved image: отр-2_page1.jpg
+  Saved image: отр-2_page2.jpg
+  Saved image: отр-2_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-2_annotated.pdf
+Finished отр-2.pdf in 0.44 seconds
+
+Processing PDF: Письмо-42.pdf
+  Saved image: Письмо-42_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-42_annotated.pdf
+Finished Письмо-42.pdf in 0.15 seconds
+
+Processing PDF: ТЗ-.pdf
+  Saved image: ТЗ-_page1.jpg
+  Saved image: ТЗ-_page2.jpg
+  Saved image: ТЗ-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-_annotated.pdf
+Finished ТЗ-.pdf in 0.47 seconds
+
+Processing PDF: Археология-2.pdf
+  Saved image: Археология-2_page1.jpg
+  Saved image: Археология-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-2_annotated.pdf
+Finished Археология-2.pdf in 0.33 seconds
+
+Processing PDF: Разрешназемлю-41-.pdf
+  Saved image: Разрешназемлю-41-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Разрешназемлю-41-_annotated.pdf
+Finished Разрешназемлю-41-.pdf in 0.15 seconds
+
+Processing PDF: отр-31-.pdf
+  Saved image: отр-31-_page1.jpg
+  Saved image: отр-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-31-_annotated.pdf
+Finished отр-31-.pdf in 0.31 seconds
+
+Processing PDF: чертеж-.pdf
+  Saved image: чертеж-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/чертеж-_annotated.pdf
+Finished чертеж-.pdf in 0.14 seconds
+
+Processing PDF: отр-1.pdf
+  Saved image: отр-1_page1.jpg
+  Saved image: отр-1_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-1_annotated.pdf
+Finished отр-1.pdf in 0.29 seconds
+
+Processing PDF: ТУ-41-чб.pdf
+  Saved image: ТУ-41-чб_page1.jpg
+  Saved image: ТУ-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТУ-41-чб_annotated.pdf
+Finished ТУ-41-чб.pdf in 0.31 seconds
+
+Processing PDF: Археология-.pdf
+  Saved image: Археология-_page1.jpg
+  Saved image: Археология-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Археология-_annotated.pdf
+Finished Археология-.pdf in 0.31 seconds
+
+Processing PDF: археология-41-чб.pdf
+  Saved image: археология-41-чб_page1.jpg
+  Saved image: археология-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/археология-41-чб_annotated.pdf
+Finished археология-41-чб.pdf in 0.32 seconds
+
+Processing PDF: письмо-22.pdf
+  Saved image: письмо-22_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-22_annotated.pdf
+Finished письмо-22.pdf in 0.16 seconds
+
+Processing PDF: локалсметчб-.pdf
+  Saved image: локалсметчб-_page1.jpg
+  Saved image: локалсметчб-_page2.jpg
+  Saved image: локалсметчб-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсметчб-_annotated.pdf
+Finished локалсметчб-.pdf in 0.39 seconds
+
+Processing PDF: дозиметрия-31-.pdf
+  Saved image: дозиметрия-31-_page1.jpg
+  Saved image: дозиметрия-31-_page2.jpg
+  Saved image: дозиметрия-31-_page3.jpg
+  Saved image: дозиметрия-31-_page4.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дозиметрия-31-_annotated.pdf
+Finished дозиметрия-31-.pdf in 0.60 seconds
+
+Processing PDF: АПЗ-41-чб.pdf
+  Saved image: АПЗ-41-чб_page1.jpg
+  Saved image: АПЗ-41-чб_page2.jpg
+  Saved image: АПЗ-41-чб_page3.jpg
+  Saved image: АПЗ-41-чб_page4.jpg
+  Saved image: АПЗ-41-чб_page5.jpg
+  Saved image: АПЗ-41-чб_page6.jpg
+  Saved image: АПЗ-41-чб_page7.jpg
+  Saved image: АПЗ-41-чб_page8.jpg
+  Saved image: АПЗ-41-чб_page9.jpg
+  Saved image: АПЗ-41-чб_page10.jpg
+  Saved image: АПЗ-41-чб_page11.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/АПЗ-41-чб_annotated.pdf
+Finished АПЗ-41-чб.pdf in 1.69 seconds
+
+Processing PDF: дефект-31-.pdf
+  Saved image: дефект-31-_page1.jpg
+  Saved image: дефект-31-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-31-_annotated.pdf
+Finished дефект-31-.pdf in 0.31 seconds
+
+Processing PDF: письмо-11.pdf
+  Saved image: письмо-11_page1.jpg
+  Saved image: письмо-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/письмо-11_annotated.pdf
+Finished письмо-11.pdf in 0.31 seconds
+
+Processing PDF: локалсмета-.pdf
+  Saved image: локалсмета-_page1.jpg
+  Saved image: локалсмета-_page2.jpg
+  Saved image: локалсмета-_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/локалсмета-_annotated.pdf
+Finished локалсмета-.pdf in 0.37 seconds
+
+Processing PDF: дефект-2.pdf
+  Saved image: дефект-2_page1.jpg
+  Saved image: дефект-2_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-2_annotated.pdf
+Finished дефект-2.pdf in 0.31 seconds
+
+Processing PDF: дефект-41-чб.pdf
+  Saved image: дефект-41-чб_page1.jpg
+  Saved image: дефект-41-чб_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-41-чб_annotated.pdf
+Finished дефект-41-чб.pdf in 0.30 seconds
+
+Processing PDF: разрешназемлю-.pdf
+  Saved image: разрешназемлю-_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемлю-_annotated.pdf
+Finished разрешназемлю-.pdf in 0.16 seconds
+
+Processing PDF: разрешназемл-2.pdf
+  Saved image: разрешназемл-2_page1.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/разрешназемл-2_annotated.pdf
+Finished разрешназемл-2.pdf in 0.15 seconds
+
+Processing PDF: ТЗ-41-чб.pdf
+  Saved image: ТЗ-41-чб_page1.jpg
+  Saved image: ТЗ-41-чб_page2.jpg
+  Saved image: ТЗ-41-чб_page3.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/ТЗ-41-чб_annotated.pdf
+Finished ТЗ-41-чб.pdf in 0.45 seconds
+
+Processing PDF: Письмо-41-.pdf
+  Saved image: Письмо-41-_page1.jpg
+  Saved image: Письмо-41-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Письмо-41-_annotated.pdf
+Finished Письмо-41-.pdf in 0.30 seconds
+
+Processing PDF: отр-11.pdf
+  Saved image: отр-11_page1.jpg
+  Saved image: отр-11_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/отр-11_annotated.pdf
+Finished отр-11.pdf in 0.29 seconds
+
+Processing PDF: дефект-.pdf
+  Saved image: дефект-_page1.jpg
+  Saved image: дефект-_page2.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/дефект-_annotated.pdf
+Finished дефект-.pdf in 0.30 seconds
+
+Processing PDF: Паспортпроекта-31-.pdf
+  Saved image: Паспортпроекта-31-_page1.jpg
+  Saved image: Паспортпроекта-31-_page2.jpg
+  Saved image: Паспортпроекта-31-_page3.jpg
+  Saved image: Паспортпроекта-31-_page4.jpg
+  Saved image: Паспортпроекта-31-_page5.jpg
+  Saved annotated PDF: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_annotated_pdfs/Паспортпроекта-31-_annotated.pdf
+Finished Паспортпроекта-31-.pdf in 0.74 seconds
+
+================== RUN SUMMARY ==================
+Run 3 / 3
+Processed files:
+1. ТУ-31-.pdf → 0.31 seconds
+2. АПЗ-2.pdf → 1.37 seconds
+3. Локалсмета-2.pdf → 0.41 seconds
+4. перечень-32-.pdf → 0.31 seconds
+5. локалсмета-32-.pdf → 0.38 seconds
+6. Дозиметр-41-чб.pdf → 0.60 seconds
+7. перечень-.pdf → 0.31 seconds
+8. письмо-.pdf → 0.30 seconds
+9. АПЗ-31-.pdf → 1.39 seconds
+10. отр-22.pdf → 0.45 seconds
+11. отр-32-.pdf → 0.45 seconds
+12. ТУ-.pdf → 0.31 seconds
+13. АПЗ-.pdf → 1.34 seconds
+14. Письмо-2.pdf → 0.17 seconds
+15. письмо-31-.pdf → 0.30 seconds
+16. Археология-31-.pdf → 0.30 seconds
+17. отр-41-.pdf → 0.29 seconds
+18. Перечень-2.pdf → 0.30 seconds
+19. отр-2.pdf → 0.44 seconds
+20. Письмо-42.pdf → 0.15 seconds
+21. ТЗ-.pdf → 0.47 seconds
+22. Археология-2.pdf → 0.33 seconds
+23. Разрешназемлю-41-.pdf → 0.15 seconds
+24. отр-31-.pdf → 0.31 seconds
+25. чертеж-.pdf → 0.14 seconds
+26. отр-1.pdf → 0.29 seconds
+27. ТУ-41-чб.pdf → 0.31 seconds
+28. Археология-.pdf → 0.31 seconds
+29. археология-41-чб.pdf → 0.32 seconds
+30. письмо-22.pdf → 0.16 seconds
+31. локалсметчб-.pdf → 0.39 seconds
+32. дозиметрия-31-.pdf → 0.60 seconds
+33. АПЗ-41-чб.pdf → 1.69 seconds
+34. дефект-31-.pdf → 0.31 seconds
+35. письмо-11.pdf → 0.31 seconds
+36. локалсмета-.pdf → 0.37 seconds
+37. дефект-2.pdf → 0.31 seconds
+38. дефект-41-чб.pdf → 0.30 seconds
+39. разрешназемлю-.pdf → 0.16 seconds
+40. разрешназемл-2.pdf → 0.15 seconds
+41. ТЗ-41-чб.pdf → 0.45 seconds
+42. Письмо-41-.pdf → 0.30 seconds
+43. отр-11.pdf → 0.29 seconds
+44. дефект-.pdf → 0.30 seconds
+45. Паспортпроекта-31-.pdf → 0.74 seconds
+
+Run 3 total time: 19.35 seconds
+Selected annotations JSON saved to: /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/initial/pdfs-20251115T092645Z-1-001/output_json/output_selected_annotations_run3.json
+=================================================
+
+ALL RUNS FINISHED. Total wall-clock time for 3 run(s): 59.40 seconds

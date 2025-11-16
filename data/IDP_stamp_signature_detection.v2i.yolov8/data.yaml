@@ -1,0 +1,17 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# nc: 2
+# names: ['signature', 'stamp']
+
+nc: 3
+names: ['signature', 'stamp', 'qr']
+
+
+roboflow:
+  workspace: edvard-khalafyan-x1z6v
+  project: idp_stamp_signature_detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/edvard-khalafyan-x1z6v/idp_stamp_signature_detection/dataset/2

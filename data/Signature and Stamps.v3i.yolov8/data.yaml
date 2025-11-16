@@ -1,0 +1,17 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# nc: 2
+# names: ['SIGNATURE', 'STAMP']
+
+nc: 3
+names: ['signature', 'stamp', 'qr']
+
+
+roboflow:
+  workspace: kaleembasha
+  project: signature-and-stamps-xtqhj-cmiat
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kaleembasha/signature-and-stamps-xtqhj-cmiat/dataset/3

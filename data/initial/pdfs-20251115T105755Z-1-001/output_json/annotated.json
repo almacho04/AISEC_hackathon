@@ -1,0 +1,290 @@
+{
+  "АПЗ-31-.pdf": {
+    "page_1": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_2": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_3": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_4": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_5": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_6": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_7": {
+      "annotations": [],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_8": {
+      "annotations": [
+        {
+          "annotation_7001": {
+            "category": "signature",
+            "bbox": {
+              "x": 840.9213256835938,
+              "y": 3036.43115234375,
+              "width": 527.6079711914062,
+              "height": 227.966064453125
+            },
+            "area": 120276.71276660264,
+            "confidence": 0.864482045173645
+          }
+        }
+      ],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    },
+    "page_9": {
+      "annotations": [
+        {
+          "annotation_qr_8001": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 589.0,
+              "y": 303.0,
+              "width": 327.0,
+              "height": 329.0
+            },
+            "area": 107583.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8002": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1891.0,
+              "y": 739.0,
+              "width": 329.0,
+              "height": 330.0
+            },
+            "area": 108570.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8003": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 580.0,
+              "y": 1175.0,
+              "width": 327.0,
+              "height": 326.0
+            },
+            "area": 106602.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8004": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1455.0,
+              "y": 1176.0,
+              "width": 328.0,
+              "height": 327.0
+            },
+            "area": 107256.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8005": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 148.0,
+              "y": 1175.0,
+              "width": 331.0,
+              "height": 324.0
+            },
+            "area": 107244.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8006": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1020.0,
+              "y": 740.0,
+              "width": 328.0,
+              "height": 326.0
+            },
+            "area": 106928.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8007": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1458.0,
+              "y": 741.0,
+              "width": 329.0,
+              "height": 327.0
+            },
+            "area": 107583.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8008": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1888.0,
+              "y": 1178.0,
+              "width": 327.0,
+              "height": 326.0
+            },
+            "area": 106602.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8009": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1895.0,
+              "y": 307.0,
+              "width": 328.0,
+              "height": 327.0
+            },
+            "area": 107256.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8010": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 156.0,
+              "y": 304.0,
+              "width": 333.0,
+              "height": 327.0
+            },
+            "area": 108891.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8011": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1024.0,
+              "y": 304.0,
+              "width": 327.0,
+              "height": 328.0
+            },
+            "area": 107256.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8012": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 585.0,
+              "y": 738.0,
+              "width": 326.0,
+              "height": 327.0
+            },
+            "area": 106602.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8013": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1462.0,
+              "y": 307.0,
+              "width": 329.0,
+              "height": 325.0
+            },
+            "area": 106925.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8014": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 1016.0,
+              "y": 1176.0,
+              "width": 328.0,
+              "height": 324.0
+            },
+            "area": 106272.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8015": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 2179.0,
+              "y": 3147.0,
+              "width": 116.0,
+              "height": 115.0
+            },
+            "area": 13340.0,
+            "data": "https://www.armeta.ai/"
+          }
+        },
+        {
+          "annotation_qr_8016": {
+            "category": "qr_code",
+            "bbox": {
+              "x": 152.0,
+              "y": 739.0,
+              "width": 331.0,
+              "height": 325.0
+            },
+            "area": 107575.0,
+            "data": "https://www.armeta.ai/"
+          }
+        }
+      ],
+      "page_size": {
+        "width": 2380,
+        "height": 3368
+      }
+    }
+  }
+}

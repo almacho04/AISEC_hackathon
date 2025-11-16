@@ -1,0 +1,17 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# nc: 3
+# names: ['- qr code - 2023-09-15 11-55pm', 'Provided by a Roboflow user', 'https-universe.roboflow.com-krkkale-niversitesi-pnmrg-qr-code-ee1km']
+
+nc: 3
+names: ['signature', 'stamp', 'qr']
+
+
+roboflow:
+  workspace: willie-e11hk
+  project: qr-scanner
+  version: 2140
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/willie-e11hk/qr-scanner/dataset/2140

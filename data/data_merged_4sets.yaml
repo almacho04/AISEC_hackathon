@@ -1,0 +1,21 @@
+train:
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/IDP_stamp_signature_detection.v2i.yolov8/train/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR Code.v2i.yolov11/train/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/Signature and Stamps.v3i.yolov8/train/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR-scanner.v2140i.yolov11/train/images
+val:
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/IDP_stamp_signature_detection.v2i.yolov8/valid/images
+# - /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR Code.v2i.yolov11/train/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/Signature and Stamps.v3i.yolov8/valid/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR-scanner.v2140i.yolov11/valid/images
+
+test:
+# - /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/IDP_stamp_signature_detection.v2i.yolov8/valid/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR Code.v2i.yolov11/test/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/Signature and Stamps.v3i.yolov8/test/images
+- /home/gpuhead-1/Desktop/Makhmud/AISEC_hackathon/data/QR-scanner.v2140i.yolov11/test/images
+nc: 3
+names:
+- signature
+- stamp
+- qr

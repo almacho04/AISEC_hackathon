@@ -1,0 +1,17 @@
+train: ../train/images
+val: ../train/images
+test: ../test/images
+
+# nc: 1
+# names: ['QR_CODE']
+
+nc: 3
+names: ['signature', 'stamp', 'qr']
+
+
+roboflow:
+  workspace: lihang-xu
+  project: qr-code-oerhe
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lihang-xu/qr-code-oerhe/dataset/2
