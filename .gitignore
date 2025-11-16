@@ -1,0 +1,25 @@
+# ---- Datasets & generated outputs ----
+data/
+runs/
+models/
+
+# Allow small config files inside data
+!data/*.yaml
+!data/initial/masked_annotations.json
+!data/initial/selected_annotations.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model weights and archives (safety)
+*.pt
+*.pth
+*.zip
+
+# Images / temp outputs (if you don't want them in git)
+output_images/
+output_json/
+output_annotated_pdfs/
+*.jpg
+*.png
+*.pdf
